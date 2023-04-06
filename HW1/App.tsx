@@ -125,11 +125,13 @@ function App(): JSX.Element {
 
           <Button
             title="Add new item"
+            color="tan"
             onPress={handleAddButtonClick}
           />
 
           <Button
             title="Remove the first item"
+            color="darkgoldenrod"
             onPress={handleRemoveButtonClick}
           />
 
@@ -140,6 +142,7 @@ function App(): JSX.Element {
               <Text>{item}</Text>
               <Button
                 title="Remove"
+                color="crimson"
                 onPress={() => handleRemoveButtonClick(index)}
               />
             </View>
