@@ -19,7 +19,7 @@ It took me approximately 12 hours to create this app, including getting familiar
 ## Challenging parts
 The most challenging part of creating this app was managing the state of the list of items. I had to figure out how to add and remove items from the list and update the display of the number of items.
 
-## References
-[React Native Environment Setup](https://reactnative.dev/docs/environment-setup?guide=native)
-[React Native Introduction](https://reactnative.dev/docs/getting-started)
-[React Native Elements](https://reactnativeelements.com/docs)
+## References<br>
+[React Native Environment Setup](https://reactnative.dev/docs/environment-setup?guide=native)<br>
+[React Native Introduction](https://reactnative.dev/docs/getting-started)<br>
+[React Native Elements](https://reactnativeelements.com/docs)<br>
