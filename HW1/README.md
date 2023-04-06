@@ -1,7 +1,7 @@
 # EEP_523_HW1
 
 ## Overview
-The goal of this assignment is to get familiar with React Native and to practice setting up a development environment, creating a "Hello World" app that displays a list of items. It includes a text input field for adding new items, a button to add the item to the list, a button to remove an item from the list, and a display of the number of items in the list.
+The goal of this assignment is to get familiar with React Native and to practice setting up a development environment, creating a "Hello World" app that displays a list of items. It includes a text input field for adding new items, a button to add the item to the list, a button to remove an item from the list, and a display of the number of items in the list. You can see the result of this project in "HW1/hw1_demo.mp4".
 
 ## Working Process
 First, create a new React Native project using the React Native CLI, here I named the project "HW1". After creating the project, open `App.tsx` and edit some lines, details are as follows:
