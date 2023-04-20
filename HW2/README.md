@@ -1,7 +1,7 @@
 # EEP_523_HW2
 
 ## Overview
-The goal of this assignment is to continue exploring React Native and to practice accessing native features and APIs in React Native, creating a camera app that allows the user to take a photo and blur it in the photo. The user can then undo the blur or save the blurred photo to their camera roll.
+The goal of this assignment is to continue exploring React Native and to practice accessing native features and APIs in React Native, creating a camera app that allows the user to take a photo and blur it in the photo. The user can then undo the blur or save the blurred photo to their camera roll. You can see the result of this project in "HW2/hw2_demo.mp4".
 
 ## How the app works
 To explain how my app works, I would like to briefly introduce that how did I build it. 
