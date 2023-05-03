@@ -8,7 +8,7 @@ To run the app, follow these steps:
 1. Grant permission to the weather application to access your device's location.
 2. Input the name of the city you wish to search for in the Text Input Component.
 3. It will show 6 components: City Name, Weather icon, Weather Condition, Current Temp, Min Temp, and Max Temp.
-4. Notice that if the user enters a wrong name which is unrecognized , it would alert an error message
+4. Notice that if the user enters a wrong name which is unrecognized, it would alert an error message.
 
 
 ## Hours took
